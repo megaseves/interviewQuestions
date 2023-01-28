@@ -1,0 +1,25 @@
+body { background-color: #1e1e23; }
+
+.question {
+    color: white;
+    font-size: 55px;
+    margin: 20% 0 0 0;
+    padding: 0;
+    text-align: center;
+}
+
+.new-question-button {
+    width: 130px;
+    height: 26px;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+
+    position: fixed;
+    bottom: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px 0;
+}
